@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/caganseval/earthquake
 Here we used Turkey's earthquake data and one of the occured earthquakes in Kocaeli in 2007 that has maximum magnitude 4.0 is guessed as 4.05 with linear regression. In order to generate training and test data, other variables like longitude, latitude, depth, and duration magnitude are also used.<br />
 
 The parameters are:<br />
-Id: order number of the earthquake<br /><br />
+Id: order number of the earthquake<br />
 Date: earthquake occurrence date<br />
 Time: time of the earthquake<br />
 Lat: latitude of the earthquake epicenter<br />
